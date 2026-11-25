@@ -1,3 +1,3 @@
-# MBS – Merge Backups & Sync
+# MB – Merge Backups & Sync
 
-Zásady ochrany soukromí aplikace MBS / Privacy policy of the MBS app: https://tkotala.github.io/mbs-privacy/
+Zásady ochrany soukromí aplikace MB / Privacy policy of the MB app: https://tkotala.github.io/mb-privacy/
