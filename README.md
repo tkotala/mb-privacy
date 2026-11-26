@@ -1,6 +1,5 @@
 # MB – Merge Backups & Sync
 
-Slučuje a synchronizuje zálohy pro aplikaci JW Library / Merges and syncs backups for the JW Library app.
-Neoficiální aplikace, bez vztahu k vlastníkovi JW Library / Unofficial app, not affiliated with the owner of JW Library.
+Slučuje a synchronizuje zálohy aplikace JW Library. Neoficiální aplikace. / Merges and syncs backups of the JW Library app. Unofficial app.
 
 Zásady ochrany soukromí / Privacy policy: https://tkotala.github.io/mb-privacy/
